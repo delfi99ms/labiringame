@@ -1,0 +1,29 @@
+# Unity cache & build (jangan dipush)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Ss]ysinfo/
+
+# IDE/Editor
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Artifacts & binaries
+*.apk
+*.ipa
+*.exe
+*_Data/
+*.log
